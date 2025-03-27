@@ -1,2 +1,3 @@
-# sprint-boot-rest-market
-This is a market application on Spring Boot with REST API.
+# Tasks:
+### 1. Rewrite the working application to REST architecture using ResponseEntity. In Postman, create a collection with CRUD operations for the User, Security, Product models.
+### 2. Connect Swagger to your local project.
